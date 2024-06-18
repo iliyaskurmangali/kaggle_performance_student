@@ -14,8 +14,9 @@ To run the application locally, follow these steps:
 
 Clone the repository and navigate into the project directory.
 
-```git clone https://github.com/iliyaskurmangali/kaggle_performance_student.git
-cd iliyaskurmangali/kaggle_performance_student.git```
+
+git clone https://github.com/iliyaskurmangali/kaggle_performance_student.git
+cd iliyaskurmangali/kaggle_performance_student.git
 
 ### Installing Packages (Linux/WSL)
 ```
