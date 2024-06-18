@@ -11,11 +11,11 @@ The purpose of this project is to provide a tool for estimating a student's GPA,
 To run the application locally, follow these steps:
 
 ### Installation
-
 Clone the repository and navigate into the project directory.
-
+```
 git clone https://github.com/iliyaskurmangali/kaggle_performance_student.git
 cd iliyaskurmangali/kaggle_performance_student.git
+```
 
 ### Installing Packages (Linux/WSL)
 ```
