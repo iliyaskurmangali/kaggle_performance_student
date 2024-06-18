@@ -1,7 +1,7 @@
 
 # Student GPA Prediction App
 
-The Student GPA Prediction App is designed to predict the Grade Point Average (GPA) of a student based on several input factors such as weekly study time, number of absences, tutoring, parental support, and participation in extracurricular activities. ![alt text](image.png)
+The Student GPA Prediction App is designed to predict the Grade Point Average (GPA) of a student based on several input factors such as weekly study time, number of absences, tutoring, parental support, and participation in extracurricular activities. ![alt text](logo.png)
 
 ## Purpose
 
