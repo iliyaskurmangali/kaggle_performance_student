@@ -38,6 +38,9 @@ preprocessor = ColumnTransformer(
 X_train1, X_test, y_train1, y_test = train_test_split(X, y, test_size=0.1, random_state=42)
 X_train, X_val, y_train, y_val = train_test_split(X_train1, y_train1, test_size=0.1, random_state=42)
 
+# Fit the preprocessor
+preprocessor.fit(X_train)
+
 # Model
 model1 = RandomForestRegressor(random_state=42, n_jobs=-1)
 
