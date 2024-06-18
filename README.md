@@ -1,7 +1,7 @@
 
 # Student GPA Prediction App
 
-View our app here ➡️ [# Student GPA Prediction App](https://kaggleperformancestudent-xxt98crdkxyv7awn8fduwk.streamlit.app/)
+View our app here ➡️ [Student GPA Prediction App](https://kaggleperformancestudent-xxt98crdkxyv7awn8fduwk.streamlit.app/)
 
 The Student GPA Prediction App is designed to predict the Grade Point Average (GPA) of a student based on several input factors such as weekly study time, number of absences, tutoring, parental support, and participation in extracurricular activities. ![alt text](logo.png)
 
