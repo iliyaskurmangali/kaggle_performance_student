@@ -1,6 +1,7 @@
+
 # Student GPA Prediction App
 
-The Student GPA Prediction App is designed to predict the Grade Point Average (GPA) of a student based on several input factors such as weekly study time, number of absences, tutoring, parental support, and participation in extracurricular activities.
+The Student GPA Prediction App is designed to predict the Grade Point Average (GPA) of a student based on several input factors such as weekly study time, number of absences, tutoring, parental support, and participation in extracurricular activities. ![alt text](logo.png)
 
 ## Purpose
 
@@ -14,7 +15,7 @@ To run the application locally, follow these steps:
 Clone the repository and navigate into the project directory.
 ```
 git clone https://github.com/iliyaskurmangali/kaggle_performance_student.git
-cd iliyaskurmangali/kaggle_performance_student.git
+cd iliyaskurmangali/kaggle_performance_student
 ```
 
 ### Installing Packages (Linux/WSL)
