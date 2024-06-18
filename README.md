@@ -1,7 +1,5 @@
 # Student GPA Prediction App
 
-View our app here ➡️ [Student GPA Prediction App](https://your-app-url.com)
-
 The Student GPA Prediction App is designed to predict the Grade Point Average (GPA) of a student based on several input factors such as weekly study time, number of absences, tutoring, parental support, and participation in extracurricular activities.
 
 ## Purpose
@@ -16,18 +14,24 @@ To run the application locally, follow these steps:
 
 Clone the repository and navigate into the project directory.
 
-```bash
+
 git clone https://github.com/iliyaskurmangali/kaggle_performance_student.git
-cd your-repo
+cd iliyaskurmangali/kaggle_performance_student.git
 
-
-Install the required Python packages using pip.
-
+### Installing Packages (Linux/WSL)
+```
 pip install -r requirements.txt
+```
+### Running Streamlit App locally (Linux/WSL)
+```
+streamlit run app/app.py
+```
 
-## Launch the Streamlit app by running the following command:
-
-bash
-Copy code
-streamlit run app.py
 The app will open in your default web browser at http://localhost:8501
+
+
+## Acknowledgements
+- [Student Performance Dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset/data) for data
+
+## License
+This project is licensed under the MIT License
